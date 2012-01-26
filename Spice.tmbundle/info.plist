@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>deleted</key>
+		<array/>
+		<key>ordering</key>
+		<array>
+			<string>E242A8E1-0584-49A3-A20D-F3FEC61359D8</string>
+			<string>D4CED597-18F1-4D71-988E-90359029EDD3</string>
+			<string>FCD4881A-801F-4B94-B8B8-8C05D0DA2F31</string>
+			<string>6ADA9285-E9C3-4A78-AB62-0A2577713BB2</string>
+			<string>C0255847-DB32-478A-AE9F-D4E57DD88E03</string>
+			<string>725C2561-48BF-476A-A5D4-8A8EBC8B71A2</string>
+			<string>DDB114B7-8904-4B1B-9F53-053921FF243A</string>
+			<string>245A0A07-50B2-49B7-9F43-9FAC230CD988</string>
+			<string>8D4F4F26-97C7-4DE7-8EF4-1A4EC8DEC530</string>
+			<string>CF1A45AD-1C66-4D4E-B880-21D8DDB5460D</string>
+			<string>373E0C25-689E-4693-AE59-19B8FFEF9CEA</string>
+			<string>E18F78E1-BB6E-4AAE-B0FE-2A3BD86B38E5</string>
+			<string>2AEAF919-5126-4A36-8F09-464EFEED08FC</string>
+			<string>00CB50A5-77A9-4E73-B622-C1D1A4F1E9FD</string>
+		</array>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>1F697C2D-12D6-463E-B30D-B9D404498899</string>
+</dict>
+</plist>
